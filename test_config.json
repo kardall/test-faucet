@@ -1,0 +1,8 @@
+{
+    "spending_phrase":"somepassphrase",
+    "fee":2,
+    "min_ada":5,
+    "max_ada":500,
+    "token_value_per_ada":"0.001",
+    "walletid":"walletid"
+}

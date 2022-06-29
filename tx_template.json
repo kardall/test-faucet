@@ -1,0 +1,18 @@
+{
+    "payments": [
+        {
+            "address":"",
+            "amount": {
+                "quantity":1500000,
+                "unit":"lovelace"
+            },
+            "assets": [
+                {
+                    "policy_id":"asset_policy_id",
+                    "asset_name":"asset_hex_name",
+                    "quantity":5000
+                }
+            ]
+        }
+    ]
+}
