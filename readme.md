@@ -1,4 +1,4 @@
-#Test Faucet Links#
+#Test Faucet Links
 
 Adjust Swapfile Size https://arcolinux.com/how-to-increase-the-size-of-your-swapfile/
 Enable SSH https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-20-04/
