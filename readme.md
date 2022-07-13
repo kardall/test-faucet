@@ -43,7 +43,7 @@ The following is how to get started with your own faucet with absolute basics as
 First Create using any wallet of your choice, in my case I used Nami. Write down the mnemonic phrases, and edit the command below to run in terminal when the cardano-wallet is running.
 
 ```
-curl -X POST http://localhost:8090/v2/wallets -d '{"mnemonic_sentence":["your","phrases","here"], "passphrase":"somepassphrase", "name":"My Test Wallet", "address_pool_gap":20}' -H "Content-Type: application/json"
+curl -X POST http://localhost:8190/v2/wallets -d '{"mnemonic_sentence":["your","phrases","here"], "passphrase":"somepassphrase", "name":"My Test Wallet", "address_pool_gap":20}' -H "Content-Type: application/json"
 ```
 
 ## Let Wallet Synchronize
